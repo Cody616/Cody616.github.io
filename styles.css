@@ -15,27 +15,27 @@
         .assignment img {
             width:200px;
             margin: 10px;
-            border:4px solid #04BFBF;
+            border:4px solid #FFF;
         }
 
         .assignment img:hover{
-            border:4px dashed #FFF;
+            border:4px dashed #04BFBF;
         }
 
         h1{
-            color: #04BFBF;
+            color: #FFF;
             text-align:center;
         }
         h1:hover{
-            color: #FFF;
+            color: #04BFBF;
             
         }
 
         a {
             text-decoration:none;
-            color: #04BFBF;
+            color: #FFF;
         }
 
         a:hover{
-            color:#FFF;
+            color: #04BFBF;
         }
