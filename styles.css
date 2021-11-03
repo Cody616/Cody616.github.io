@@ -15,11 +15,11 @@
         .assignment img {
             width:200px;
             margin: 10px;
-            border:4px solid #FFF;
+            border:4px solid #04BFBF;
         }
 
         .assignment img:hover{
-            border:4px dashed #ccff66;
+            border:4px dashed #FFF;
         }
 
         h1{
@@ -27,13 +27,13 @@
             text-align:center;
         }
         h1:hover{
-            color: #ccff66;
+            color: #FFF;
             
         }
 
         a {
             text-decoration:none;
-            color: #ccff66;
+            color: #04BFBF;
         }
 
         a:hover{
