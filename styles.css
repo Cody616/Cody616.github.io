@@ -1,13 +1,18 @@
-  body {
+        body {
             background: #CAFCD8;
            
             font-family: Arial, Helvetica, sans-serif;
         }
+        .assignments{
+            display:flex;
+            flex-wrap:wrap;
+        }
 
         .assignment {
-            display:flex;
+            width: 22%;
             padding:10px;
             margin: 10px;
+            padding: 20px 10px;
             background: #F7E967;
             border-radius:30px:
         }
@@ -16,26 +21,31 @@
             width:200px;
             margin: 10px;
             border:4px solid #FFF;
+            display:block;
+            margin:auto;
         }
 
         .assignment img:hover{
-            border:4px dashed #04BFBF;
+            border:4px dashed #ccff66;
         }
 
         h1{
-            color: #FFF;
+            color: #04BFBF;
             text-align:center;
         }
         h1:hover{
-            color: #04BFBF;
+            color: #ccff66;
             
+        }
+        h2{
+            text-align:center;
         }
 
         a {
             text-decoration:none;
-            color: #FFF;
+            color: #ccff66;
         }
 
         a:hover{
-            color: #04BFBF;
+            color:#FFF;
         }
