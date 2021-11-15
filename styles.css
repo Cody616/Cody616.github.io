@@ -26,7 +26,7 @@
         }
 
         .assignment img:hover{
-            border:4px dashed #ccff66;
+            border:4px dashed #FFF;
         }
 
         h1{
@@ -34,7 +34,7 @@
             text-align:center;
         }
         h1:hover{
-            color: #ccff66;
+            color: #6680ff;
             
         }
         h2{
@@ -43,9 +43,9 @@
 
         a {
             text-decoration:none;
-            color: #ccff66;
+            color: #FFF;
         }
 
         a:hover{
-            color:#FFF;
+            color:#6680ff; 
         }
